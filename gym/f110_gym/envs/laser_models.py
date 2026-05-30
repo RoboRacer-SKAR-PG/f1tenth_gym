@@ -471,7 +471,7 @@ class ScanTests(unittest.TestCase):
     def setUp(self):
         # test params
         self.num_beams = 1080
-        self.fov = 4.7
+        self.fov = 6.2831853
 
         self.num_test = 10
         self.test_poses = np.zeros((self.num_test, 3))
@@ -553,7 +553,7 @@ class ScanTests(unittest.TestCase):
 
     def test_rng(self):
         num_beams = 1080
-        fov = 4.7
+        fov = 6.2831853
         map_path = '../envs/maps/berlin.yaml'
         map_ext = '.png'
         it = 100
@@ -582,7 +582,7 @@ class ScanTests(unittest.TestCase):
 
 def main():
     num_beams = 1080
-    fov = 4.7
+    fov = 6.2831853
     # map_path = '../envs/maps/berlin.yaml'
     map_path = '../../../examples/example_map.yaml'
     map_ext = '.png'

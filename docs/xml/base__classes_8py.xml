@@ -65,7 +65,7 @@
 <codeline lineno="53"><highlight class="stringliteral"></highlight></codeline>
 <codeline lineno="54"><highlight class="stringliteral"><sp/><sp/><sp/><sp/>&quot;&quot;&quot;</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="55"><highlight class="normal"></highlight></codeline>
-<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classf110__gym_1_1envs_1_1base__classes_1_1_race_car_1af342754a877c42b3828a03b6425801d4" kindref="member">__init__</ref>(self,<sp/>params,<sp/>is_ego=False,<sp/>time_step=0.01,<sp/>num_beams=1080,<sp/>fov=4.7):</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classf110__gym_1_1envs_1_1base__classes_1_1_race_car_1af342754a877c42b3828a03b6425801d4" kindref="member">__init__</ref>(self,<sp/>params,<sp/>is_ego=False,<sp/>time_step=0.01,<sp/>num_beams=1080,<sp/>fov=6.2831853):</highlight></codeline>
 <codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">&quot;&quot;&quot;</highlight></codeline>
 <codeline lineno="58"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Init<sp/>function</highlight></codeline>
 <codeline lineno="59"><highlight class="stringliteral"></highlight></codeline>

@@ -66,7 +66,7 @@ class RaceCar(object):
     scan_angles = None
     side_distances = None
 
-    def __init__(self, params, seed, is_ego=False, time_step=0.01, num_beams=1080, fov=4.7, integrator=Integrator.Euler, lidar_dist=0.0):
+    def __init__(self, params, seed, is_ego=False, time_step=0.01, num_beams=1080, fov=6.2831853, integrator=Integrator.Euler, lidar_dist=0.0):
         """
         Init function
 
